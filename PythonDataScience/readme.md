@@ -9,14 +9,12 @@ Anda adalah sebuah pegawai yang ditugaskan untuk membuat sebuah program rekap. S
 (Nama: Zio, Nilai: 99)
 
 ```
-{
 data = {
     "Andi": 88,
     "Arley": 77,
     "Zio": 99
 }
 print(data)
-}
 ```
 Outputnya harus seperti ini
 {'Andi': 88, 'Arley': 77, 'Zio': 99}
