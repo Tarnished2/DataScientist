@@ -6,7 +6,7 @@ Portofolio dari studi independen Narasio Data
 ## [Project 2 : Dataset]
 ## [Project 3 : Object Oriented Programming]
 
-# [2. Statisics for Data Science]
+# 2. Statisics for Data Science
 ## [Project 4 : Basic Descriptive Statistics]
 ## [Project 5 : Basic Statistics Inference]
 ## [Project 6 : Hypothesis Testing]
