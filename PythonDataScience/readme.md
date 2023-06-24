@@ -3,11 +3,9 @@
 ## [Project 1 : Basic Python]
 1. Case 1
 Anda adalah sebuah pegawai yang ditugaskan untuk membuat sebuah program rekap. Sehingga data yang ada dibawah ini dapat disimpan dalam sebuah variabel dengan tipe dictionary
-
-(Nama: Andi, Nilai: 88)
-(Nama: Arley, Nilai: 77)
-(Nama: Zio, Nilai: 99)
-
+- (Nama: Andi, Nilai: 88)
+- (Nama: Arley, Nilai: 77)
+- (Nama: Zio, Nilai: 99)
 ```
 data = {
     "Andi": 88,
@@ -17,7 +15,7 @@ data = {
 print(data)
 ```
 Outputnya harus seperti ini
-{'Andi': 88, 'Arley': 77, 'Zio': 99}
+- {'Andi': 88, 'Arley': 77, 'Zio': 99}
 
 2. Case 2
 
