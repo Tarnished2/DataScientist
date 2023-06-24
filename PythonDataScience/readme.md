@@ -147,3 +147,47 @@ sehingga outputnya adalah sebagai berikut
 ## [Project 2 : Dataset]
 
 ## [Project 3 : Object Oriented Programming]
+1. Kamu akan membuat sebuah class Mahasiswa dan objek-objeknya, untuk mencetak "Biodata Mahasiswa"
+```
+# define class...
+class Person:
+  def __init__(self, name, age, kelamin, alamat, kota):
+    self.name = name
+    self.age = age
+    self.kelamin = kelamin
+    self.alamat = alamat
+    self.kota = kota
+
+# buat method untuk menampilkan bio data mahasiswa
+  def myfunc(self):
+    print("Nama             : " + self.name)
+    print("Umur             : " + str(self.age))
+    print("Jenis Kelamin    : " + self.kelamin)
+    print("Alamat Sekarang  : " + self.alamat)
+    print("Kota             : " + self.kota)
+
+p1 = Person("Gede Surya Pratama", 19, "Pria", "Lembah Permai Hanjuang", "Cimahi Utara")
+p1.myfunc()
+```
+outputnya adalah
+- Nama             : Gede Surya Pratama
+- Umur             : 19
+- Jenis Kelamin    : Pria
+- Alamat Sekarang  : Lembah Permai Hanjuang
+- Kota             : Cimahi Utara
+
+2. Kamu akan membuat sebuah class LuasBalok yang memiliki atribut/properti panjang dan lebar serta aksinya yang akan dibuat adalah menghitung luasnya dan objeknya Balok
+```
+# define class balok
+class balok :
+  def __init__(self,panjang,lebar):
+    self.panjang = panjang
+    self.lebar = lebar
+# method menghitung luas balok
+  def get_luas(self):
+    return self.panjang * self.lebar
+
+balok1 = balok(10,5)
+print('luas balok : ',balok1.get_luas())
+```
+output = luas balok :  50
