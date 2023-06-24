@@ -3,6 +3,9 @@ Portofolio dari studi independen Narasio Data
 
 # 1. Python for Data Science
 ## [Project 1 : Basic Python] (https://github.com/Tarnished2/DataScientist/blob/main/Exercise_1_Muklis_Pramaditya_Ardian_Saputra.ipynb)
+[Project 1 : Basic Python](https://github.com/Tarnished2/DataScientist/blob/main/Exercise_1_Muklis_Pramaditya_Ardian_Saputra.ipynb)
+
+<a href="https://github.com/Tarnished2/DataScientist/blob/main/Exercise_1_Muklis_Pramaditya_Ardian_Saputra.ipynb">Project 1 : Basic Python</a>
 ## [Project 2 : Dataset] (https://github.com/Tarnished2/DataScientist/blob/main/Exercise_2_Muklis_Pramaditya%20Ardian%20Saputra.ipynb)
 ## [Project 3 : Object Oriented Programming] (https://github.com/Tarnished2/DataScientist/blob/main/Exercise_3_Muklis_Pramaditya%20Ardian%20Saputra.ipynb)
 
