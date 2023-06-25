@@ -7,10 +7,10 @@ Portofolio dari studi independen Narasio Data
 ## [Project 3 : Object Oriented Programming](https://github.com/Tarnished2/DataScientist/blob/main/PythonDataScience/3.ObjectOrientedProgramming.ipynb)
 
 # 2. Statisics for Data Science
-## [Project 4 : Basic Descriptive Statistics]
-## [Project 5 : Basic Statistics Inference]
-## [Project 6 : Hypothesis Testing]
-## [Project 7 : AB Testing]
+## [Project 4 : Basic Descriptive Statistics](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/4.BasicDescriptiveStatistics.ipynb)
+## [Project 5 : Basic Statistics Inference](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/5.BasicStatisticsInference.ipynb)
+## [Project 6 : Hypothesis Testing](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/6.HypothesisTesting.ipynb)
+## [Project 7 : AB Testing](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/7.ABTesting.ipynb)
 
 # [3. Data Preparation using Python]
 ## [Project 8 : Data Preparation and EDA]
