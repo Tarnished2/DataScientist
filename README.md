@@ -12,10 +12,10 @@ Portofolio dari studi independen Narasio Data
 ## [Project 6 : Hypothesis Testing](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/6.HypothesisTesting.ipynb)
 ## [Project 7 : AB Testing](https://github.com/Tarnished2/DataScientist/blob/main/StatisticsDataScience/7.ABTesting.ipynb)
 
-# [3. Data Preparation using Python]
-## [Project 8 : Data Preparation and EDA]
-## [Project 9 : Handling Outlier]
-## [Project 10 : Handling Imbalance Data]
+# 3. Data Preparation using Python
+## [Project 8 : Data Preparation and EDA]()
+## [Project 9 : Handling Outlier]()
+## [Project 10 : Handling Imbalance Data]()
 
 # [4. Supervised Machine Learning : Linear Regression]
 ## [Project 11 : Linear Regression]
