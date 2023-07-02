@@ -17,16 +17,14 @@ Portofolio dari studi independen Narasio Data
 ## [Project 9 : Handling Outlier](https://github.com/Tarnished2/DataScientist/blob/main/DataPreparationusingPython/9.HandlingOutliers.ipynb)
 ## [Project 10 : Handling Imbalance Data](https://github.com/Tarnished2/DataScientist/blob/main/DataPreparationusingPython/10.HandlingImbalancedData.ipynb)
 
-# [4. Supervised Machine Learning : Linear Regression]
-## [Project 11 : Linear Regression]
-## [Project 12 : Regression Model Validation]
+# 4. Supervised Machine Learning : Linear Regression
+## [Project 11 : Linear Regression](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/11.SimpleLinearRegression.ipynb)
+## [Project 12 : Regression Model Validation](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/12.RegressionModelValidation.ipynb)
 
-# [5. Supervised Machine Learning : Classification]
-## [Project 13 : Binary Classification - Logistic Regression]
-## [Project 14 : Classification Model Validation]
+# 5. Supervised Machine Learning : Classification
+## [Project 13 : Binary Classification - Logistic Regression](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/13.BinaryClassification.ipynb)
+## [Project 14 : Classification Model Validation](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/14.ClassificationModelValidation.ipynb)
 
-# [6. Unsupervised Machine Learning : Clustering]
-## [Project 15 : Clustering - K-Means]
-## [Project 16 : Clustering - RFM]
-
-# [7. Capstone Project]
+# 6. Unsupervised Machine Learning : Clustering
+## [Project 15 : Clustering - K-Means](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/15.ClusteringKMeans.ipynb)
+## [Project 16 : Clustering - RFM](https://github.com/Tarnished2/DataScientist/blob/main/MachineLearning/16.ClusteringRFM.ipynb)
